@@ -482,4 +482,11 @@
  <!-- vendor -->
  <project path="vendor/du" name="android_vendor_du" remote="du" revision="m" />
 
+ <remote  name="irichter"
+          fetch="https://github.com/irichter/"/>
+
+ <project path="device/lge/geeb" name="android_device_lge_geeb" remote="irichter" revision="m"/>
+ <project path="kernel/lge/geeb" name="android_kernel_lge_geeb" remote="irichter" revision="m"/>
+ <project path="vendor/lge/geeb" name="android_vendor_lge_geeb" remote="irichter" revision="m"/>
+
 </manifest>
