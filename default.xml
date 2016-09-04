@@ -460,7 +460,6 @@
  <project path="packages/apps/Launcher3" name="android_packages_apps_Launcher3" remote="du" revision="m" />
  <project path="packages/apps/LockClock" name="android_packages_apps_LockClock" remote="du" revision="m" />
  <project path="packages/apps/Messaging" name="android_packages_apps_Messaging" remote="du" revision="m" />
- <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="du" revision="m" />
  <project path="packages/apps/OmniSwitch" name="android_packages_apps_OmniSwitch" remote="du" revision="m" />
  <project path="packages/apps/PackageInstaller" name="android_packages_apps_PackageInstaller" remote="du" revision="m" />
  <project path="packages/apps/PhoneCommon" name="android_packages_apps_PhoneCommon" remote="du" revision="m" />
@@ -488,5 +487,6 @@
  <project path="device/lge/geeb" name="android_device_lge_geeb" remote="irichter" revision="m"/>
  <project path="kernel/lge/geeb" name="android_kernel_lge_geeb" remote="irichter" revision="m"/>
  <project path="vendor/lge/geeb" name="android_vendor_lge_geeb" remote="irichter" revision="m"/>
+ <project path="packages/apps/Nfc" name="android_packages_apps_Nfc" remote="irichter" revision="m_geeb" />
 
 </manifest>
